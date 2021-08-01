@@ -1,7 +1,11 @@
 # flostr
 
 **flo**w **str**ucture analysis
-
+Developed in conjunction with:
+-andrefvaq
+-G. D. McBain
+- SamMallinson
+- TracUNSW
 # Installation
 
 ## Miniconda
