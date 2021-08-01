@@ -1,0 +1,6 @@
+scikit-fem==2.5.0
+dmsh==0.2.11
+h5py
+matplotlib
+dask[array, distributed]
+
