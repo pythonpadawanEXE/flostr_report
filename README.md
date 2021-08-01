@@ -8,6 +8,7 @@ Developed in conjunction with:
 - G. D. McBain
 - SamMallinson
 - TracUNSW
+- JakeEdwards (pythonpadawanexe)
 # Installation
 
 ## Miniconda
