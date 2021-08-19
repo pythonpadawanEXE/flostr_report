@@ -1,6 +1,7 @@
 # flostr
 
 **flo**w **str**ucture analysis
+[Thesis C JAKE ALLAN EDWARDS.pdf](https://github.com/pythonpadawanEXE/flostr_report/files/7011682/Thesis.C.JAKE.ALLAN.EDWARDS.pdf)
 
 
 Developed in conjunction with:
